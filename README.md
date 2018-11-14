@@ -14,9 +14,8 @@ Summary: logging is a pure R package that implements the ubiquitous log4j packag
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/r-logging-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/r-logging-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/r-logging-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/r-logging-feedstock)
-[![Windows](https://img.shields.io/appveyor/ci/conda-forge/r-logging-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/r-logging-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/r-logging-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/r-logging-feedstock)
 
 Current release info
 ====================
