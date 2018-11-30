@@ -17,13 +17,12 @@ source:
 build:
   noarch: generic
   number: 1000
-
   rpaths:
     - lib/R/lib/
     - lib/
 
 requirements:
-  build:
+  host:
     - r-base
 
   run:
