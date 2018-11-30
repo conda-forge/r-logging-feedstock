@@ -1,4 +1,4 @@
-{% set version = '0.7-103' %}
+{% set version = "0.8-104" %}
 
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
@@ -12,11 +12,11 @@ source:
   url:
     - https://cran.r-project.org/src/contrib/logging_{{ version }}.tar.gz
     - https://cran.r-project.org/src/contrib/Archive/logging/logging_{{ version }}.tar.gz
-  sha256: aca8153206cc815a49470844c48f44f84e6d7a6ce52686a8593f727582c0e7ea
+  sha256: 3d46b00a436700635878edec954c7d962bea93193f61af673895220b3d213dbf
 
 build:
   noarch: generic
-  number: 1001
+  number: 1000
 
   rpaths:
     - lib/R/lib/
