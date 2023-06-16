@@ -1,11 +1,11 @@
-About r-logging
-===============
+About r-logging-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-logging-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=logging
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-logging-feedstock/blob/main/LICENSE.txt)
 
 Summary: logging is a pure R package that implements the ubiquitous log4j package.
 
